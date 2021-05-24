@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"animuspexus"
+	],
+	"copyright": "Copyright © 2021, animuspexus",
+	"dependencies": {
+		"dlangui": "~>0.9.186"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "t17",
+	"targetType": "executable"
+}

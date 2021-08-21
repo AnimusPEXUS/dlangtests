@@ -25,7 +25,7 @@ extern (C) int UIAppMain(string[] args)
     auto mmi1 = new MenuItem(new Action(0, "item1"d));
     mm0.add(mmi1);
 
-    mm.menuItems = mm0;
+    /* mm.menuItems = mm0; */
 
     vlay.addChild(mm);
 
